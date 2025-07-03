@@ -1,0 +1,5 @@
+{
+    "api_key": "your-openai-api-key-here",
+    "max_loops": 3,
+    "search_results_per_query": 3
+}
